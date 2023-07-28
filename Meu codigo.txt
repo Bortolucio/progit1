@@ -1,2 +1,3 @@
 Teste de versionamento aula git v1
 Nova linha de código para teste v2
+Alteração 3 para teste de branch v3
